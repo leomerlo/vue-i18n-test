@@ -1,4 +1,5 @@
 {
   "goodbye": "Adios",
-  "hello": "Hola"
+  "hello": "Hola {name}",
+  "car": "auto | autos"
 }

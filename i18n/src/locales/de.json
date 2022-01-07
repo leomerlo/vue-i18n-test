@@ -1,4 +1,5 @@
 {
   "goodbye": "Auf Weidersen",
-  "hello": "Hallo"
+  "hello": "Hallo {name}",
+  "car": "german | germans"
 }
